@@ -101,8 +101,7 @@ You should have the same versions of the following software to prevent any possi
 - **git**: version 2.17.0
 
 other:
-- MacOS: 10.13.6
-(I'll post another version for Ubuntu)
+- Ubuntu VirtualBox (for Mac version, please refer to my other repository "EventCrowd3")
 
 ### Configuration
 
